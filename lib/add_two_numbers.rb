@@ -6,5 +6,7 @@ module AddTwoNumbers
 
   def self.add(a, b)
     a + b
+  rescue
+    puts "Please enter valid numbers"
   end
 end

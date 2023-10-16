@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    add_two_numbers (0.1.0)
+    add_two_numbers (0.1.2)
 
 GEM
   remote: https://rubygems.org/
